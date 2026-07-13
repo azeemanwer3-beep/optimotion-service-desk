@@ -4,6 +4,9 @@
 
 An intelligent support system that uses AI to troubleshoot customer issues with rented electric vehicles before escalating to service tickets — reducing unnecessary ticket creation and improving customer experience.
 
+🌍 **Live Website:** [https://optimotion-service-desk.vercel.app/](https://optimotion-service-desk.vercel.app/)
+🐙 **GitHub Repository:** [https://github.com/azeemanwer3-beep/optimotion-service-desk](https://github.com/azeemanwer3-beep)
+
 ![Tech Stack](https://img.shields.io/badge/React-18-blue?logo=react) ![FastAPI](https://img.shields.io/badge/FastAPI-0.115-green?logo=fastapi) ![Gemini](https://img.shields.io/badge/Gemini-2.0-orange?logo=google) ![SQLite](https://img.shields.io/badge/SQLite-3-lightblue?logo=sqlite)
 
 ---
@@ -130,7 +133,7 @@ Conv.    ticket summary
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/optimotion-service-desk.git
+git clone https://github.com/azeemanwer3-beep/optimotion-service-desk.git
 cd optimotion-service-desk
 ```
 
